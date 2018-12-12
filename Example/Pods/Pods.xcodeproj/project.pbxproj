@@ -7,20 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		06A94B5C21C19B1E00CD7CB0 /* ICSCropViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B4C21C19B1D00CD7CB0 /* ICSCropViewController.h */; };
-		06A94B5D21C19B1E00CD7CB0 /* UIImageView+ContentFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B4E21C19B1D00CD7CB0 /* UIImageView+ContentFrame.m */; };
-		06A94B5E21C19B1E00CD7CB0 /* UIImage+fixOrientation.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B4F21C19B1D00CD7CB0 /* UIImage+fixOrientation.h */; };
-		06A94B5F21C19B1E00CD7CB0 /* UIColor+HexRepresentation.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B5021C19B1D00CD7CB0 /* UIColor+HexRepresentation.m */; };
-		06A94B6021C19B1E00CD7CB0 /* UIImageView+ContentFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B5121C19B1D00CD7CB0 /* UIImageView+ContentFrame.h */; };
-		06A94B6121C19B1E00CD7CB0 /* UIColor+HexRepresentation.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B5221C19B1D00CD7CB0 /* UIColor+HexRepresentation.h */; };
-		06A94B6221C19B1E00CD7CB0 /* UIImage+fixOrientation.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B5321C19B1D00CD7CB0 /* UIImage+fixOrientation.m */; };
-		06A94B6321C19B1E00CD7CB0 /* ICSCropViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B5421C19B1D00CD7CB0 /* ICSCropViewController.mm */; };
-		06A94B6421C19B1E00CD7CB0 /* ICSGeometry.c in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B5621C19B1D00CD7CB0 /* ICSGeometry.c */; };
-		06A94B6521C19B1E00CD7CB0 /* ICSCropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B5721C19B1D00CD7CB0 /* ICSCropView.m */; };
-		06A94B6621C19B1E00CD7CB0 /* ICSGeometry.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B5821C19B1D00CD7CB0 /* ICSGeometry.h */; };
-		06A94B6721C19B1E00CD7CB0 /* OpenCVWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B5921C19B1D00CD7CB0 /* OpenCVWrapper.h */; };
-		06A94B6821C19B1E00CD7CB0 /* ICSCropView.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B5A21C19B1D00CD7CB0 /* ICSCropView.h */; };
-		06A94B6921C19B1E00CD7CB0 /* OpenCVWrapper.mm in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B5B21C19B1D00CD7CB0 /* OpenCVWrapper.mm */; };
+		06A94B7B21C19FA800CD7CB0 /* ICSCropViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B6B21C19FA800CD7CB0 /* ICSCropViewController.mm */; };
+		06A94B7C21C19FA800CD7CB0 /* ICSGeometry.c in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B6D21C19FA800CD7CB0 /* ICSGeometry.c */; };
+		06A94B7D21C19FA800CD7CB0 /* ICSCropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B6E21C19FA800CD7CB0 /* ICSCropView.m */; };
+		06A94B7E21C19FA800CD7CB0 /* ICSGeometry.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B6F21C19FA800CD7CB0 /* ICSGeometry.h */; };
+		06A94B7F21C19FA800CD7CB0 /* OpenCVWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B7021C19FA800CD7CB0 /* OpenCVWrapper.h */; };
+		06A94B8021C19FA800CD7CB0 /* ICSCropView.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B7121C19FA800CD7CB0 /* ICSCropView.h */; };
+		06A94B8121C19FA800CD7CB0 /* OpenCVWrapper.mm in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B7221C19FA800CD7CB0 /* OpenCVWrapper.mm */; };
+		06A94B8221C19FA800CD7CB0 /* ICSCropViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B7321C19FA800CD7CB0 /* ICSCropViewController.h */; };
+		06A94B8321C19FA800CD7CB0 /* UIImageView+ContentFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B7521C19FA800CD7CB0 /* UIImageView+ContentFrame.m */; };
+		06A94B8421C19FA800CD7CB0 /* UIImage+fixOrientation.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B7621C19FA800CD7CB0 /* UIImage+fixOrientation.h */; };
+		06A94B8521C19FA800CD7CB0 /* UIColor+HexRepresentation.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B7721C19FA800CD7CB0 /* UIColor+HexRepresentation.m */; };
+		06A94B8621C19FA800CD7CB0 /* UIImageView+ContentFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B7821C19FA800CD7CB0 /* UIImageView+ContentFrame.h */; };
+		06A94B8721C19FA800CD7CB0 /* UIColor+HexRepresentation.h in Headers */ = {isa = PBXBuildFile; fileRef = 06A94B7921C19FA800CD7CB0 /* UIColor+HexRepresentation.h */; };
+		06A94B8821C19FA800CD7CB0 /* UIImage+fixOrientation.m in Sources */ = {isa = PBXBuildFile; fileRef = 06A94B7A21C19FA800CD7CB0 /* UIImage+fixOrientation.m */; };
 		0ECCC9837366CD29CBFD9EE449531AC3 /* Pods-SSSImageExtension_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F1107303738CA51DA4A96AA07593F172 /* Pods-SSSImageExtension_Example-dummy.m */; };
 		3D92549B1335E829FFC974F297055295 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95F0EA215E99FD0275243E5DF7AFD2FA /* Foundation.framework */; };
 		417E600EF7B1D73A5CE5BDB63FC4C411 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1427DD0302DA501BFF0E846F8D2BF5CD /* UIKit.framework */; };
@@ -52,21 +52,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		06A94B4B21C19B1D00CD7CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		06A94B4C21C19B1D00CD7CB0 /* ICSCropViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSCropViewController.h; sourceTree = "<group>"; };
-		06A94B4E21C19B1D00CD7CB0 /* UIImageView+ContentFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ContentFrame.m"; sourceTree = "<group>"; };
-		06A94B4F21C19B1D00CD7CB0 /* UIImage+fixOrientation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+fixOrientation.h"; sourceTree = "<group>"; };
-		06A94B5021C19B1D00CD7CB0 /* UIColor+HexRepresentation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HexRepresentation.m"; sourceTree = "<group>"; };
-		06A94B5121C19B1D00CD7CB0 /* UIImageView+ContentFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ContentFrame.h"; sourceTree = "<group>"; };
-		06A94B5221C19B1D00CD7CB0 /* UIColor+HexRepresentation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+HexRepresentation.h"; sourceTree = "<group>"; };
-		06A94B5321C19B1D00CD7CB0 /* UIImage+fixOrientation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+fixOrientation.m"; sourceTree = "<group>"; };
-		06A94B5421C19B1D00CD7CB0 /* ICSCropViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ICSCropViewController.mm; sourceTree = "<group>"; };
-		06A94B5621C19B1D00CD7CB0 /* ICSGeometry.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ICSGeometry.c; sourceTree = "<group>"; };
-		06A94B5721C19B1D00CD7CB0 /* ICSCropView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSCropView.m; sourceTree = "<group>"; };
-		06A94B5821C19B1D00CD7CB0 /* ICSGeometry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSGeometry.h; sourceTree = "<group>"; };
-		06A94B5921C19B1D00CD7CB0 /* OpenCVWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenCVWrapper.h; sourceTree = "<group>"; };
-		06A94B5A21C19B1D00CD7CB0 /* ICSCropView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSCropView.h; sourceTree = "<group>"; };
-		06A94B5B21C19B1D00CD7CB0 /* OpenCVWrapper.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = OpenCVWrapper.mm; sourceTree = "<group>"; };
+		06A94B6A21C19FA800CD7CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = SSSImageExtension/Classes/Assets.xcassets; sourceTree = "<group>"; };
+		06A94B6B21C19FA800CD7CB0 /* ICSCropViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = ICSCropViewController.mm; path = SSSImageExtension/Classes/ICSCropViewController.mm; sourceTree = "<group>"; };
+		06A94B6D21C19FA800CD7CB0 /* ICSGeometry.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ICSGeometry.c; sourceTree = "<group>"; };
+		06A94B6E21C19FA800CD7CB0 /* ICSCropView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSCropView.m; sourceTree = "<group>"; };
+		06A94B6F21C19FA800CD7CB0 /* ICSGeometry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSGeometry.h; sourceTree = "<group>"; };
+		06A94B7021C19FA800CD7CB0 /* OpenCVWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenCVWrapper.h; sourceTree = "<group>"; };
+		06A94B7121C19FA800CD7CB0 /* ICSCropView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICSCropView.h; sourceTree = "<group>"; };
+		06A94B7221C19FA800CD7CB0 /* OpenCVWrapper.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = OpenCVWrapper.mm; sourceTree = "<group>"; };
+		06A94B7321C19FA800CD7CB0 /* ICSCropViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ICSCropViewController.h; path = SSSImageExtension/Classes/ICSCropViewController.h; sourceTree = "<group>"; };
+		06A94B7521C19FA800CD7CB0 /* UIImageView+ContentFrame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ContentFrame.m"; sourceTree = "<group>"; };
+		06A94B7621C19FA800CD7CB0 /* UIImage+fixOrientation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+fixOrientation.h"; sourceTree = "<group>"; };
+		06A94B7721C19FA800CD7CB0 /* UIColor+HexRepresentation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+HexRepresentation.m"; sourceTree = "<group>"; };
+		06A94B7821C19FA800CD7CB0 /* UIImageView+ContentFrame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ContentFrame.h"; sourceTree = "<group>"; };
+		06A94B7921C19FA800CD7CB0 /* UIColor+HexRepresentation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+HexRepresentation.h"; sourceTree = "<group>"; };
+		06A94B7A21C19FA800CD7CB0 /* UIImage+fixOrientation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+fixOrientation.m"; sourceTree = "<group>"; };
 		0B865D23CD1B74383DC2AD45BB7016C1 /* Pods-SSSImageExtension_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SSSImageExtension_Tests.modulemap"; sourceTree = "<group>"; };
 		12B76E6074204B0BFFC6A9D7CA9D5DE2 /* SSSImageExtension-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SSSImageExtension-dummy.m"; sourceTree = "<group>"; };
 		1427DD0302DA501BFF0E846F8D2BF5CD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
@@ -135,30 +135,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		06A94B4D21C19B1D00CD7CB0 /* ICS Categories */ = {
+		06A94B6C21C19FA800CD7CB0 /* OpenCV */ = {
 			isa = PBXGroup;
 			children = (
-				06A94B4E21C19B1D00CD7CB0 /* UIImageView+ContentFrame.m */,
-				06A94B4F21C19B1D00CD7CB0 /* UIImage+fixOrientation.h */,
-				06A94B5021C19B1D00CD7CB0 /* UIColor+HexRepresentation.m */,
-				06A94B5121C19B1D00CD7CB0 /* UIImageView+ContentFrame.h */,
-				06A94B5221C19B1D00CD7CB0 /* UIColor+HexRepresentation.h */,
-				06A94B5321C19B1D00CD7CB0 /* UIImage+fixOrientation.m */,
+				06A94B6D21C19FA800CD7CB0 /* ICSGeometry.c */,
+				06A94B6E21C19FA800CD7CB0 /* ICSCropView.m */,
+				06A94B6F21C19FA800CD7CB0 /* ICSGeometry.h */,
+				06A94B7021C19FA800CD7CB0 /* OpenCVWrapper.h */,
+				06A94B7121C19FA800CD7CB0 /* ICSCropView.h */,
+				06A94B7221C19FA800CD7CB0 /* OpenCVWrapper.mm */,
 			);
-			path = "ICS Categories";
+			name = OpenCV;
+			path = SSSImageExtension/Classes/OpenCV;
 			sourceTree = "<group>";
 		};
-		06A94B5521C19B1D00CD7CB0 /* OpenCV */ = {
+		06A94B7421C19FA800CD7CB0 /* ICS Categories */ = {
 			isa = PBXGroup;
 			children = (
-				06A94B5621C19B1D00CD7CB0 /* ICSGeometry.c */,
-				06A94B5721C19B1D00CD7CB0 /* ICSCropView.m */,
-				06A94B5821C19B1D00CD7CB0 /* ICSGeometry.h */,
-				06A94B5921C19B1D00CD7CB0 /* OpenCVWrapper.h */,
-				06A94B5A21C19B1D00CD7CB0 /* ICSCropView.h */,
-				06A94B5B21C19B1D00CD7CB0 /* OpenCVWrapper.mm */,
+				06A94B7521C19FA800CD7CB0 /* UIImageView+ContentFrame.m */,
+				06A94B7621C19FA800CD7CB0 /* UIImage+fixOrientation.h */,
+				06A94B7721C19FA800CD7CB0 /* UIColor+HexRepresentation.m */,
+				06A94B7821C19FA800CD7CB0 /* UIImageView+ContentFrame.h */,
+				06A94B7921C19FA800CD7CB0 /* UIColor+HexRepresentation.h */,
+				06A94B7A21C19FA800CD7CB0 /* UIImage+fixOrientation.m */,
 			);
-			path = OpenCV;
+			name = "ICS Categories";
+			path = "SSSImageExtension/Classes/ICS Categories";
 			sourceTree = "<group>";
 		};
 		09C66D4699B91F0BFE6A21AFA9579869 /* Development Pods */ = {
@@ -270,11 +272,11 @@
 		CDBCB0E7CD6175C31FF192E9BCE43841 /* SSSImageExtension */ = {
 			isa = PBXGroup;
 			children = (
-				06A94B4B21C19B1D00CD7CB0 /* Assets.xcassets */,
-				06A94B4D21C19B1D00CD7CB0 /* ICS Categories */,
-				06A94B4C21C19B1D00CD7CB0 /* ICSCropViewController.h */,
-				06A94B5421C19B1D00CD7CB0 /* ICSCropViewController.mm */,
-				06A94B5521C19B1D00CD7CB0 /* OpenCV */,
+				06A94B6A21C19FA800CD7CB0 /* Assets.xcassets */,
+				06A94B7421C19FA800CD7CB0 /* ICS Categories */,
+				06A94B7321C19FA800CD7CB0 /* ICSCropViewController.h */,
+				06A94B6B21C19FA800CD7CB0 /* ICSCropViewController.mm */,
+				06A94B6C21C19FA800CD7CB0 /* OpenCV */,
 				AD492D06D554F813D075081A04AD0BDE /* Pod */,
 				6BAEA741A63DA0D43BD68A53B124171D /* Support Files */,
 			);
@@ -299,14 +301,14 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06A94B7E21C19FA800CD7CB0 /* ICSGeometry.h in Headers */,
+				06A94B8721C19FA800CD7CB0 /* UIColor+HexRepresentation.h in Headers */,
+				06A94B8021C19FA800CD7CB0 /* ICSCropView.h in Headers */,
+				06A94B8621C19FA800CD7CB0 /* UIImageView+ContentFrame.h in Headers */,
+				06A94B8221C19FA800CD7CB0 /* ICSCropViewController.h in Headers */,
 				9AA06522816C4FE1E90C0B6ACA00EA8E /* SSSImageExtension-umbrella.h in Headers */,
-				06A94B6821C19B1E00CD7CB0 /* ICSCropView.h in Headers */,
-				06A94B6021C19B1E00CD7CB0 /* UIImageView+ContentFrame.h in Headers */,
-				06A94B5C21C19B1E00CD7CB0 /* ICSCropViewController.h in Headers */,
-				06A94B6121C19B1E00CD7CB0 /* UIColor+HexRepresentation.h in Headers */,
-				06A94B6621C19B1E00CD7CB0 /* ICSGeometry.h in Headers */,
-				06A94B5E21C19B1E00CD7CB0 /* UIImage+fixOrientation.h in Headers */,
-				06A94B6721C19B1E00CD7CB0 /* OpenCVWrapper.h in Headers */,
+				06A94B7F21C19FA800CD7CB0 /* OpenCVWrapper.h in Headers */,
+				06A94B8421C19FA800CD7CB0 /* UIImage+fixOrientation.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,14 +433,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				06A94B5D21C19B1E00CD7CB0 /* UIImageView+ContentFrame.m in Sources */,
-				06A94B6421C19B1E00CD7CB0 /* ICSGeometry.c in Sources */,
+				06A94B8121C19FA800CD7CB0 /* OpenCVWrapper.mm in Sources */,
+				06A94B7B21C19FA800CD7CB0 /* ICSCropViewController.mm in Sources */,
+				06A94B8821C19FA800CD7CB0 /* UIImage+fixOrientation.m in Sources */,
+				06A94B8521C19FA800CD7CB0 /* UIColor+HexRepresentation.m in Sources */,
+				06A94B8321C19FA800CD7CB0 /* UIImageView+ContentFrame.m in Sources */,
+				06A94B7C21C19FA800CD7CB0 /* ICSGeometry.c in Sources */,
+				06A94B7D21C19FA800CD7CB0 /* ICSCropView.m in Sources */,
 				DE4962949F5A9E38BEA73727A7D54931 /* SSSImageExtension-dummy.m in Sources */,
-				06A94B6521C19B1E00CD7CB0 /* ICSCropView.m in Sources */,
-				06A94B6921C19B1E00CD7CB0 /* OpenCVWrapper.mm in Sources */,
-				06A94B6221C19B1E00CD7CB0 /* UIImage+fixOrientation.m in Sources */,
-				06A94B6321C19B1E00CD7CB0 /* ICSCropViewController.mm in Sources */,
-				06A94B5F21C19B1E00CD7CB0 /* UIColor+HexRepresentation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
