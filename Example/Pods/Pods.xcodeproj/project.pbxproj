@@ -52,7 +52,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		06A94B6A21C19FA800CD7CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = SSSImageExtension/Classes/Assets.xcassets; sourceTree = "<group>"; };
 		06A94B6B21C19FA800CD7CB0 /* ICSCropViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = ICSCropViewController.mm; path = SSSImageExtension/Classes/ICSCropViewController.mm; sourceTree = "<group>"; };
 		06A94B6D21C19FA800CD7CB0 /* ICSGeometry.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ICSGeometry.c; sourceTree = "<group>"; };
 		06A94B6E21C19FA800CD7CB0 /* ICSCropView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICSCropView.m; sourceTree = "<group>"; };
@@ -272,7 +271,6 @@
 		CDBCB0E7CD6175C31FF192E9BCE43841 /* SSSImageExtension */ = {
 			isa = PBXGroup;
 			children = (
-				06A94B6A21C19FA800CD7CB0 /* Assets.xcassets */,
 				06A94B7421C19FA800CD7CB0 /* ICS Categories */,
 				06A94B7321C19FA800CD7CB0 /* ICSCropViewController.h */,
 				06A94B6B21C19FA800CD7CB0 /* ICSCropViewController.mm */,
