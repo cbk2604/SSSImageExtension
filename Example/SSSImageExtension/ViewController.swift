@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         dummyImageView.circleImageView(borderColor: UIColor.red, borderWidth: 3.0)
-        TestView
+        dummyImageView.downloadedFrom(link: "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823_1280.jpg")
     }
 
     override func didReceiveMemoryWarning() {
