@@ -1,0 +1,22 @@
+{
+  "name": "SSSImageExtension",
+  "version": "0.1.0",
+  "summary": "A short description of SSSImageExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bharghav/SSSImageExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bharghav": "bharghav@happay.in"
+  },
+  "source": {
+    "git": "https://github.com/Bharghav/SSSImageExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SSSImageExtension/Classes/**/*"
+}

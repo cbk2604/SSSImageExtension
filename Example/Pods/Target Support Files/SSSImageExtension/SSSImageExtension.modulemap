@@ -1,0 +1,6 @@
+framework module SSSImageExtension {
+  umbrella header "SSSImageExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SSSImageExtension_Tests {
+  umbrella header "Pods-SSSImageExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
